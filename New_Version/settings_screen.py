@@ -1,4 +1,4 @@
-from tkinter import *1
+from tkinter import *11
 import tkinter.font as font
 from tkinter import ttk
 from tkinter import messagebox
